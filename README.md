@@ -1,1 +1,1 @@
-# IBM-Applied-DataScience-Capstone-SpaceX
+# IBM-Applied-Data-Science-Capstone
